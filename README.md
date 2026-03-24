@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JSON Formatter Browser Extension
 
 A simple and lightweight browser extension for formatting and validating JSON data.
@@ -122,3 +123,7 @@ MIT
 ## Support
 
 For issues and feature requests, please open an issue on GitHub.
+=======
+# json-format
+谷歌浏览器json格式化插件
+>>>>>>> 427b70518cd8cea0107a224264d2b7c96ca0ec36
