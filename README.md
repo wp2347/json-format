@@ -15,22 +15,26 @@ A simple and lightweight browser extension for formatting and validating JSON da
 ### Development
 
 1. Clone the repository:
+
 ```bash
 git clone <repository-url>
 cd format-json
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start development server:
+
 ```bash
 npm run dev
 ```
 
 4. Build the extension:
+
 ```bash
 npm run build
 ```
